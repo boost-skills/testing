@@ -1,5 +1,5 @@
 ---
-name: laravel-common
+name: laravel-common-test
 description: >-
   Writes and refactors Laravel tests with PHPUnit or Pest following strict
   self-contained, DB-independent rules; shared setup only via data providers.
